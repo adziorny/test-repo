@@ -1,0 +1,22 @@
+---
+title: "2_Practicum"
+author: "Adam Dziorny"
+date: "August 31, 2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Working with R
+
+We are using the R commands from the Practium ...
+
+```{r}
+1+2
+```
+
+```{r}
+
+```
