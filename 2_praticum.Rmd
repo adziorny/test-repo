@@ -17,6 +17,14 @@ We are using the R commands from the Practium ...
 1+2
 ```
 
-```{r}
+Number 2:
 
+```{r}
+c(1:5)
+```
+
+Number 3;
+
+```{r}
+cat("hello","there")
 ```
